@@ -1,3 +1,5 @@
+// Orbit Technologies est. 2021
+
 import fs from 'fs';
 import * as dotenv from 'dotenv';
 import { HardhatUserConfig, task } from 'hardhat/config';
